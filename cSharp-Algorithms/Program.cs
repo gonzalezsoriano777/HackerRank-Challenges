@@ -15,7 +15,7 @@ namespace cSharp_Algorithms
             total.InitialCost();
 
             DayThree LoopCalled = new DayThree();
-            LoopCalled.IfLoop(16);
+            LoopCalled.IfLoop(5);
 
         }
     }
