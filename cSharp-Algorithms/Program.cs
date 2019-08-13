@@ -13,6 +13,10 @@ namespace cSharp_Algorithms
         {
             DayTwo total = new DayTwo();
             total.InitialCost();
+
+            DayThree LoopCalled = new DayThree();
+            LoopCalled.IfLoop(16);
+
         }
     }
 }
