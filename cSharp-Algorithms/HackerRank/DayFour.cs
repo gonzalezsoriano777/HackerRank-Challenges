@@ -11,35 +11,32 @@ namespace cSharp_Algorithms.HackerRank
 
         public int age;
 
-        public DayFour(int initialAge)
+        public void Age(int initialAge)
         {
             if(initialAge > 0)
             {
                 age = initialAge;
-
             }
                 else
                 {
-                    Console.WriteLine("Age is not acceptable, setting age back to 0..");
-
-                }
-
+                    Console.WriteLine("Age is not acceptable. Setting age to 0.");
+                }   
         }
 
         public void amIOld()
         {
 
-            if ()
+            if (age < 13)
             {
-
+                Console.WriteLine("You are young.");
             }
-                if ()
+                if (age >= 13 && age < 18)
                 {
-
+                    Console.WriteLine("You are a teenager.");
                 }
-                    if ()
+                    if (age >= 18)
                     {
-
+                        Console.WriteLine("You are old");
                     }
 
         }

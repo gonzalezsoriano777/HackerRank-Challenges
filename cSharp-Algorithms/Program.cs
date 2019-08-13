@@ -11,12 +11,22 @@ namespace cSharp_Algorithms
     {
         static void Main(string[] args)
         {
+            #region DayTwo ObjectReference
             DayTwo total = new DayTwo();
             total.InitialCost();
+            #endregion
 
+            #region DayThree Object Reference
             DayThree LoopCalled = new DayThree();
-            LoopCalled.IfLoop(53);
-
+            LoopCalled.IfLoop(6);
+            #endregion
+            
+            #region DayFour Object Reference
+            DayFour Aging = new DayFour();
+            Aging.Age(16);
+            Aging.amIOld();
+            Aging.yearPassing();
+            #endregion
         }
     }
 }
