@@ -11,6 +11,7 @@ namespace cSharp_Algorithms
     {
         static void Main(string[] args)
         {
+            
             #region DayTwo ObjectReference
             DayTwo total = new DayTwo();
             total.InitialCost();
@@ -23,10 +24,16 @@ namespace cSharp_Algorithms
             
             #region DayFour ObjectReference
             DayFour Aging = new DayFour();
-            Aging.Age(16);
+            Aging.Age(15);
             Aging.amIOld();
             Aging.yearPassing();
             #endregion
+
+            #region DayFive ObjectReference
+            DayFive IntegerLooping = new DayFive();
+            IntegerLooping.Loops(2);
+            #endregion
         }
+
     }
 }

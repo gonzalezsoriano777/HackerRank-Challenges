@@ -10,10 +10,14 @@ namespace cSharp_Algorithms.HackerRank
     {
         public int Loops(int num)
         {
-
-
+            
+            for(int i = 1;  i <= 10; i++)
+            {
+                Console.WriteLine("{0} x {1} = {2}", num, i, num * i);    
+            }
 
             return num;
+
         }
     }
 }
