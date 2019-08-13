@@ -16,12 +16,12 @@ namespace cSharp_Algorithms
             total.InitialCost();
             #endregion
 
-            #region DayThree Object Reference
+            #region DayThree ObjectReference
             DayThree LoopCalled = new DayThree();
             LoopCalled.IfLoop(6);
             #endregion
             
-            #region DayFour Object Reference
+            #region DayFour ObjectReference
             DayFour Aging = new DayFour();
             Aging.Age(16);
             Aging.amIOld();
