@@ -20,7 +20,8 @@ namespace cSharp_Algorithms.HackerRank
 
             Console.WriteLine("The totalCost of my buffalo chicken sub meal is : ");
             Console.WriteLine(Math.Round(totalCost));
-            Console.WriteLine();       
+            Console.WriteLine();
+            
         }
     }
 }
