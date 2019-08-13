@@ -48,6 +48,5 @@ namespace cSharp_Algorithms.HackerRank
         {
             age++;
         }
-  
     }
 }
