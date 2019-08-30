@@ -43,13 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HackerRank-30DaysOfCode\DaySix.cs" />
-    <Compile Include="HackerRank-30DaysOfCode\DaySeven.cs" />
-    <Compile Include="HackerRank-30DaysOfCode\DayEight.cs" />
-    <Compile Include="HackerRank-30DaysOfCode\DayFive.cs" />
-    <Compile Include="HackerRank-30DaysOfCode\DayFour.cs" />
-    <Compile Include="HackerRank-30DaysOfCode\DayThree.cs" />
-    <Compile Include="HackerRank-30DaysOfCode\DayTwo.cs" />
+    <Compile Include="HackerRank\DaySix.cs" />
+    <Compile Include="HackerRank\DaySeven.cs" />
+    <Compile Include="HackerRank\DayEight.cs" />
+    <Compile Include="HackerRank\DayFive.cs" />
+    <Compile Include="HackerRank\DayFour.cs" />
+    <Compile Include="HackerRank\DayThree.cs" />
+    <Compile Include="HackerRank\DayTwo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

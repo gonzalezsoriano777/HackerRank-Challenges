@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace cSharp_Algorithms.HackerRank_30DaysOfCode
 {
-    class DaySix
+    public class DaySix
     {
+
+        
     }
 }

@@ -33,6 +33,11 @@ namespace cSharp_Algorithms
             DayFive IntegerLooping = new DayFive();
             IntegerLooping.Loops(2);
             #endregion
+
+            #region Reversing Array
+            DaySeven arrReversing = new DaySeven();
+            arrReversing.arrReverse();
+            #endregion
         }
 
     }
