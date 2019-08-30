@@ -8,6 +8,6 @@ namespace cSharp_Algorithms.CodeSignal
 {
     public class centuryFromYear
     {
-
+        
     }
 }
