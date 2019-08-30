@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CodeSignal\centuryFromYear.cs" />
     <Compile Include="HackerRank-30DaysOfCode\DayFive.cs" />
     <Compile Include="HackerRank-30DaysOfCode\DayFour.cs" />
     <Compile Include="HackerRank-30DaysOfCode\DayThree.cs" />
