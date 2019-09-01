@@ -34,6 +34,11 @@ namespace cSharp_Algorithms
             IntegerLooping.Loops(2);
             #endregion
 
+            #region DaySix ObjectReference
+            DaySix WordParity = new DaySix();
+            WordParity.wordParity("Hacker");
+            #endregion
+
             #region Reversing Array
             DaySeven arrReversing = new DaySeven();
             arrReversing.arrReverse();
