@@ -11,9 +11,8 @@ namespace cSharp_Algorithms.HackerRank
         public string wordParity(string word)
         {
 
-            int testCases = 2;
-
             Console.WriteLine();
+            Console.WriteLine("Word manipulation, grabbing odd and even characters: ");
 
             
                 for (int firstWord = 0; firstWord < word.Length; firstWord++)
