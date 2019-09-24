@@ -11,7 +11,7 @@ namespace cSharp_Algorithms
     {
         static void Main(string[] args)
         {
-            
+            /*
             #region DayTwo ObjectReference
             DayTwo total = new DayTwo();
             total.InitialCost();
@@ -39,9 +39,16 @@ namespace cSharp_Algorithms
             WordParity.wordParity("Hacker");
             #endregion
 
-            #region Reversing Array
+
+            #region DaySeven Reversing Array
             DaySeven arrReversing = new DaySeven();
             arrReversing.arrReverse();
+            #endregion
+            */
+
+            #region DayEight Dictionary&Maps
+            DayEight phoneBook = new DayEight();
+            phoneBook.ContactList();
             #endregion
         }
 
