@@ -44,12 +44,18 @@ namespace cSharp_Algorithms
             DaySeven arrReversing = new DaySeven();
             arrReversing.arrReverse();
             #endregion
-            */
+            
 
             #region DayEight Dictionary&Maps
             DayEight phoneBook = new DayEight();
             phoneBook.ContactList();
             #endregion
+            */
+
+            #region DayNine Recursion
+            DayNine recursion = new DayNine();
+            recursion.factorial(2);
+            #endregion 
         }
 
     }
