@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using cSharp_Algorithms.HackerRank;
+using cSharp_Algorithms.CodeSignal;
 
 namespace cSharp_Algorithms
 {
@@ -50,12 +51,18 @@ namespace cSharp_Algorithms
             DayEight phoneBook = new DayEight();
             phoneBook.ContactList();
             #endregion
-            */
+            
 
             #region DayNine Recursion
             DayNine recursion = new DayNine();
             recursion.factorial(2);
-            #endregion 
+            #endregion
+            */
+
+            longestUnCorruptedSegments match = new longestUnCorruptedSegments();
+            match.longestUncorruptedSegments(new int[4] { 7, 2, 3, 5 }, new int[4] { 7, 2, 2, 7 });
+            
+
         }
 
     }

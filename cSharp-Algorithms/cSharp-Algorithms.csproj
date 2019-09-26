@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CodeSignal\longestUnCorruptedSegments.cs" />
+    <Compile Include="CodeSignal\Company Challenges\longestUnCorruptedSegments.cs" />
     <Compile Include="HackerRank\DayNine.cs" />
     <Compile Include="HackerRank\DaySix.cs" />
     <Compile Include="HackerRank\DaySeven.cs" />
