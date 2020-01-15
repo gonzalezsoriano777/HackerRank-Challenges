@@ -12,8 +12,9 @@ namespace cSharp_Algorithms
     {
         static void Main(string[] args)
         {
-            
-            
+
+            DaySix test = new DaySix();
+            test.LetsReview();
 
         }
 
