@@ -13,8 +13,8 @@ namespace cSharp_Algorithms
         static void Main(string[] args)
         {
 
-            DaySeven test = new DaySeven();
-            test.Arrays();
+            DayEight test = new DayEight();
+            test.DictionaryAndMaps();
 
         }
 
