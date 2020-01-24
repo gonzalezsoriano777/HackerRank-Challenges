@@ -13,12 +13,13 @@ namespace cSharp_Algorithms.HackerRank
             Dictionary<string, string> contactBook = new Dictionary<string, string>();
 
             Console.WriteLine("Welcome to my Dictionary for locating a contact name and it's phone number");
+            Console.WriteLine();
+            Console.WriteLine("Insert the amount of contact you would like..");
             int n = Convert.ToInt32(Console.ReadLine());
 
             for(int req = 0; req < n; req++)
             {
-                Console.WriteLine();
-                Console.WriteLine("Insert the amount of contact you would like..");
+              
                 var phoneBook = Console.ReadLine();
                 var book = phoneBook.Split(' ');
 
