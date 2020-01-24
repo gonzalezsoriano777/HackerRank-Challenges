@@ -11,10 +11,14 @@ namespace cSharp_Algorithms.HackerRank
         public void DictionaryAndMaps()
         {
             Dictionary<string, string> contactBook = new Dictionary<string, string>();
+
+            Console.WriteLine("Welcome to my Dictionary for locating a contact name and it's phone number");
             int n = Convert.ToInt32(Console.ReadLine());
 
             for(int req = 0; req < n; req++)
             {
+                Console.WriteLine();
+                Console.WriteLine("Insert the amount of contact you would like..");
                 var phoneBook = Console.ReadLine();
                 var book = phoneBook.Split(' ');
 
@@ -26,6 +30,9 @@ namespace cSharp_Algorithms.HackerRank
 
             for(int i = 0; i < n; i++)
             {
+                Console.WriteLine();
+                Console.WriteLine("Now insert those contacts with their corresponding phone number");
+
                 string query = Console.ReadLine();
 
                 if (contactBook.ContainsKey(query))
