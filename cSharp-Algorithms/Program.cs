@@ -13,11 +13,7 @@ namespace cSharp_Algorithms
         static void Main(string[] args)
         {
 
-            //DayNine test = new DayNine();
-            //test.Recursion(9);
-
-            DayEight test = new DayEight();
-            test.DictionaryAndMaps();
+           
 
         }
 
