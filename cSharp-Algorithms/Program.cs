@@ -13,7 +13,8 @@ namespace cSharp_Algorithms
         static void Main(string[] args)
         {
 
-           
+            DaySeven arr = new DaySeven();
+            arr.ReverseArray();
 
         }
 
