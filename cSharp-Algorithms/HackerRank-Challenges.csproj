@@ -44,10 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodeSignal\Company Challenges\longestUnCorruptedSegments.cs" />
+    <Compile Include="HackerRank\DayEight.cs" />
     <Compile Include="HackerRank\DayFive.cs" />
     <Compile Include="HackerRank\DayFour.cs" />
+    <Compile Include="HackerRank\DayNine.cs" />
     <Compile Include="HackerRank\DaySeven.cs" />
     <Compile Include="HackerRank\DaySix.cs" />
+    <Compile Include="HackerRank\DayTen.cs" />
     <Compile Include="HackerRank\DayThree.cs" />
     <Compile Include="HackerRank\DayZero.cs" />
     <Compile Include="HackerRank\DayTwo.cs" />
