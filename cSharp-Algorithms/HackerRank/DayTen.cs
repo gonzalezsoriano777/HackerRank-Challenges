@@ -47,16 +47,7 @@ namespace cSharp_Algorithms.HackerRank
             count.Sort();
             count.Reverse();
 
-
-            foreach (int item in count)
-                Console.Write("{0}, ", item);
-            Console.WriteLine();
-            foreach (int number in binaryNum)
-                Console.Write(number);
-            Console.WriteLine();
-
-
-            Console.WriteLine("nCount:  {0}", count[0]);
+            Console.WriteLine("NumberOfConsecutiveOnes:  {0}", count[0]);
         }
     }
 }
