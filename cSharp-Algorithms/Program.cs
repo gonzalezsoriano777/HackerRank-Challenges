@@ -12,8 +12,8 @@ namespace cSharp_Algorithms
     {
         static void Main(string[] args)
         {
-            DayTen test = new DayTen();
-            test.Binary();
+            Student test = new Student();
+            test.Calculate();
         }
 
     }
