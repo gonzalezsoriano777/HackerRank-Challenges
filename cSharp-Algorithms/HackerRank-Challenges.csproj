@@ -44,7 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodeSignal\Company Challenges\longestUnCorruptedSegments.cs" />
-    <Compile Include="HackerRank\Day13.cs" />
+    <Compile Include="HackerRank\DayFourteen.cs" />
+    <Compile Include="HackerRank\DayThirteen.cs" />
     <Compile Include="HackerRank\DayEight.cs" />
     <Compile Include="HackerRank\DayEleven.cs" />
     <Compile Include="HackerRank\DayFive.cs" />
