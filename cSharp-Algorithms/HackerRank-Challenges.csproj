@@ -44,7 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodeSignal\Company Challenges\longestUnCorruptedSegments.cs" />
+    <Compile Include="HackerRank\DayEighteen.cs" />
+    <Compile Include="HackerRank\DayFifteen.cs" />
     <Compile Include="HackerRank\DayFourteen.cs" />
+    <Compile Include="HackerRank\DayNineteen.cs" />
+    <Compile Include="HackerRank\DaySeventeen.cs" />
+    <Compile Include="HackerRank\DaySixteen.cs" />
     <Compile Include="HackerRank\DayThirteen.cs" />
     <Compile Include="HackerRank\DayEight.cs" />
     <Compile Include="HackerRank\DayEleven.cs" />
@@ -59,6 +64,7 @@
     <Compile Include="HackerRank\DayZero.cs" />
     <Compile Include="HackerRank\DayTwo.cs" />
     <Compile Include="HackerRank\DayOne.cs" />
+    <Compile Include="HackerRank\DayTwenty.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
